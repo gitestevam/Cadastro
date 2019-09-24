@@ -1,5 +1,5 @@
 # Cadastro
-Simples cadastro para armazenar nome, telefone e cpf
+Simples cadastro para armazenar nome, telefone e cpf.
 Desenvolvido para simplemente adicionar alguns dados no banco e mostrar o ultimo resultado.
 Dessa forma no cadastro você pode aterar os campos ou até mesmo adicionar.
 Ele vai chamar o "inserir.php" para poder inserir os dados no banco.
